@@ -10,16 +10,5 @@ public class WebhomeWorkApplication {
         //这里是启动代码
         SpringApplication.run(WebhomeWorkApplication.class, args);
     }
-/**
- public static void mai(String[] args){
- int count=0;
- while(count<100){
- String uuid = "1";
- //UUIDUtils.getUUID().replace.All("-","");
- System.out.println(uuid);
- count ++;
- }
- }
- **/
 
 }
